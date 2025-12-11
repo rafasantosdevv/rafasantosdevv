@@ -54,7 +54,8 @@
 
 ###
 
-<p align="left">- 19 years old and a systems analysis and development technician.<br>- I like to study the most complex parts of codes such as Java and data.<br>- I studied for a year and a half on a technical course in systems analysis and development at ETEC.<br>- My biggest project to date was creating a chatbot for WhatsApp using NGROK, Docker, N8N, and APIs.</p>
+<p align="left">
+  - 19 years old and a systems analysis and development technician.<br>- I like to study the most complex parts of codes such as Java and data.<br>- I studied for a year and a half on a technical course in systems analysis and development at ETEC.<br>- My biggest project to date was creating a chatbot for WhatsApp using NGROK, Docker, N8N, and APIs.</p>
 
 ###
 
